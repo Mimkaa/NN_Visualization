@@ -5,11 +5,13 @@
 ![image info](instances/ins1.png)
 *       this is how current configuration looks like
 ![image info](instances/ins2.png)
-*       you can also kinda see the current weights but I did not fiddle to much with it so some of them overlap other ones (Is activated by liking Whts:on/off button)
+*       you can also kinda see the current weights but I did not fiddle to much with it so some of them overlap other ones (Is activated by clicking Whts:on/off button)
 ![image info](instances/ins3.png)
 *       Also you can see how errors are distributed throught the entire Network by clicking (Error_Mode) Button
 ![image info](instances/ins4.png)
-*       Lastly just change inputs and expected values (these are squres), by clicking them and inputing new values via a keyboard, and click (train) button, you will see how everything get adjusted according to your values
+*       Lastly just change inputs and expected values (these are squres), by clicking them and inputing new values via a keyboard, and click (train) button, you will see how everything get adjusted according to your values.
 ![image info](instances/ins5.png)
+
+Enjoy tweaking;)
 
 
